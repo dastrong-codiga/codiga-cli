@@ -1,0 +1,15 @@
+TN:
+SF:utils/encoding.js
+FN:5,encodeToBase64
+FN:14,decodeFromBase64
+FNF:2
+FNH:2
+FNDA:1,encodeToBase64
+FNDA:1,decodeFromBase64
+DA:6,1
+DA:15,1
+LF:2
+LH:2
+BRF:0
+BRH:0
+end_of_record
